@@ -1,3 +1,4 @@
 # odin-recipes
-First Odin Project
-This project will have some basic HTML to mainly improve my skills with GIT
+First Odin Project!!
+
+This project will cover some basic HTML and reinforce my abilities using GIT.
